@@ -83,6 +83,9 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 ## OUTPUT :
 
+![Screenshot 2025-05-09 185233](https://github.com/user-attachments/assets/3961ec97-c9a2-49e9-9ec8-099355564d38)
+
+
 
 ### SET logs the information regarding the Google credentials:
 ## OUTPUT :
