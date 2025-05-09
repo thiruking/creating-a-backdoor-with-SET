@@ -1,3 +1,11 @@
+```
+NAME : THIRUMALAI K
+REG NO : 212224240176
+DEPT : AIML
+
+```
+
+
 # creating-a-backdoor-with-SET
 creating a backdoor with SET - Ethical Hacking Techniques course
 
@@ -23,8 +31,33 @@ Open terminal and try execute some kali linux commands
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
+## OUTPUT :
 
 
+![01](img/og1.png)
+
+### The command sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
+
+## OUTPUT :
+
+![02](img/02.png)
+
+### It displays the following menu and select 2 for Website Attack Vectors:
+
+## OUTPUT :
+
+
+![03](img/03.png)
+
+### The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
+
+## OUTPUT :
+
+![04](img/04.png)
+
+### The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
+
+## OUTPUT :
 
 
 
