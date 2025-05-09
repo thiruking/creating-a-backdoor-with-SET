@@ -59,8 +59,38 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 ## OUTPUT :
 
+![05](img/05.png)
+
+### It shows the following screen in which the ip address of the attacker need to be given which is the default value:
+
+## OUTPUT :
+
+![06](img/06.png)
+
+### It shows the following screen in which the option Google can be selected:
+
+## OUTPUT :
+
+![07](img/07.png)
+
+### SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
+
+## OUTPUT :
+
+![08](img/09.png)
+
+### In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
+
+## OUTPUT :
 
 
+### SET logs the information regarding the Google credentials:
+## OUTPUT :
+![Alt text](img/10.png)
+
+### SET logs the information in the xml file under /root/.set directory:
+
+![Alt text](img/11.png)
 
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
